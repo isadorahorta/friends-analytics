@@ -233,4 +233,5 @@ Baixe os arquivos do Kaggle e coloque em `data/raw/`:
 ## 👩‍💻 Autora
 
 **Isadora**
-Estudante de Sistemas de Informação — em busca de estágio em dados
+Estudante de Sistemas de Informação — em busca de estágio em dados#   f r i e n d s - a n a l y t i c s  
+ 
