@@ -1,5 +1,3 @@
-.
-
 📺 Friends Analytics — Engenharia e Análise de Dados
 
 Projeto de portfólio desenvolvido para demonstrar habilidades em engenharia de dados, análise exploratória e consumo de APIs REST, utilizando como base os dados da série Friends (1994–2004).
