@@ -201,7 +201,7 @@ Crie um arquivo .env:
 
 ```OMDB_KEY=sua_chave```
 
- 4. Baixe os datasets
+### 4. Baixe os datasets
 
 Coloque em data/raw/:
 
